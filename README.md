@@ -8,3 +8,16 @@
 - Real time chat engine for comments
 - Drag and Drop interface
 - Portfolio
+
+
+### Code Examples
+
+```ruby 
+def myMethod
+  puts
+end
+```
+
+```javascript
+alert('Hi There!');
+```
